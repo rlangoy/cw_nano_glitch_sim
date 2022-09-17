@@ -1,0 +1,5 @@
+
+*.log
+*.net
+simulation/cw_nano_glitch_sim.op.raw
+simulation/cw_nano_glitch_sim.raw
