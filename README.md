@@ -4,10 +4,8 @@
 
 Simulation files for the Chipwisper Nano glitct output to the glitched target
 
-
-.. image:: https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png
+![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png)
     
-
 
 LT-Spice can be downloaddet from:
 https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
