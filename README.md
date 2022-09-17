@@ -2,7 +2,7 @@
 
 
 
-Simulation files for the Chipwisper Nano glitct output to the glitched target
+Simulation files for the [ Chipwisper Nano ](https://github.com/newaetech/chipwhisperer/blob/develop/hardware/capture/chipwhisperer-nano/NAE-CW1101-04_CWNANOSCH.pdf) glitct output to the glitched target
 
 #### Result of singe 60ns Pulse
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png)
