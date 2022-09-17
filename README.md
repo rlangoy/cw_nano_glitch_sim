@@ -8,7 +8,7 @@ Simulation files for the Chipwisper Nano glitct output to the glitched target
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png)
 
 
-###Result of multiple 60ns Pulse with 50% dutycycle
+### Result of multiple 60ns Pulse with 50% dutycycle
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U_multiple_60ns_pulses.png)
 
 
