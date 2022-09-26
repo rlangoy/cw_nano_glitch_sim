@@ -5,3 +5,6 @@ simulation/cw_nano_glitch_sim.op.raw
 simulation/cw_nano_glitch_sim.raw
 *.raw
 *.plt
+images/bk/20ns_VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png
+images/bk/multiple_20ns_VDD_GLITCH_OUTPUT_FDN337N_VS_DMM3200U.png
+simulation/cw_nano_glitch_sim_diode_enhanch.asc
