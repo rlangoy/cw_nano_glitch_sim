@@ -26,7 +26,7 @@ https://www.onsemi.com/download/models/lib/fdn337n.lib \
 Datasheets \
 https://www.infineon.com/dgdl/Infineon-IRLML6246-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153566878f22621 \
 https://www.diodes.com/assets/Datasheets/ds31188.pdf \
-https://www.onsemi.com/pdf/datasheet/fdn337n-d.pdf \
+https://www.onsemi.com/pdf/datasheet/fdn337n-d.pdf 
 
 
 
