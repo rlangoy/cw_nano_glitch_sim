@@ -18,9 +18,10 @@ Simulation files for the [ Chipwisper Nano ](https://github.com/newaetech/chipwh
 
 \
 LT-Spice can be downloaddet from: \
-https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html\
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
 \
-Models used downloader from: \
+\
+Spice Models download: 
 |   Model |URL                                                                                                                             |
 |---------|--------------------------------------------------------------------------------------------------------------------------------|
 |BSS214NW | https://www.infineon.com/dgdl/Infineon-SimulationModel_OptiMOS_PowerMOSFET_PSpice_20V_N-Channel-SimulationModels-v01_00-EN.zip?fileId=db3a304344ae06150144b733451709e2 | 
@@ -28,7 +29,7 @@ Models used downloader from: \
 |DMN3200U | https://www.diodes.com/spice/download/1625/DMN3200U.spice.txt |
 |FDN337n  | https://www.onsemi.com/download/models/lib/fdn337n.lib |
 
-
+\
 Datasheets \
 https://www.infineon.com/dgdl/Infineon-BSS214NW-DS-v02_02-en.pdf?fileId=db3a30431b3e89eb011b695aebc01bde
 https://www.infineon.com/dgdl/Infineon-IRLML6246-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153566878f22621 \
