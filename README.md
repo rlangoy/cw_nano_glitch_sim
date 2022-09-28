@@ -23,11 +23,11 @@ https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-sim
 \
 Spice Models download: 
 |   Model |URL                                                                                                                             |
-|---------|--------------------------------------------------------------------------------------------------------------------------------|
-|BSS214NW | https://www.infineon.com/dgdl/Infineon-SimulationModel_OptiMOS_PowerMOSFET_PSpice_20V_N-Channel-SimulationModels-v01_00-EN.zip?fileId=db3a304344ae06150144b733451709e2 | 
+|---------|  :-----------------------------------------------------------------------------------------------------------------------------|
+|BSS214NW | https://www.infineon.com/dgdl/Infineon-SimulationModel_OptiMOS_PowerMOSFET_PSpice_20V_N-Channel-SimulationModels-v01_00-EN.zip?fileId=db3a304344ae06150144b733451709e2                                                         | 
 |IRLM6246 | https://www.infineon.com/dgdl/irlml6246.spi?fileId=5546d462533600a40153573a9c3a3dd6 |
-|DMN3200U | https://www.diodes.com/spice/download/1625/DMN3200U.spice.txt |
-|FDN337n  | https://www.onsemi.com/download/models/lib/fdn337n.lib |
+|DMN3200U | https://www.diodes.com/spice/download/1625/DMN3200U.spice.txt                       |
+|FDN337n  | https://www.onsemi.com/download/models/lib/fdn337n.lib                              |
 
 \
 Datasheets \
